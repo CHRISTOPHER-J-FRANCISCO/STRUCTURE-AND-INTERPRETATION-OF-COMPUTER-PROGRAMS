@@ -1,0 +1,1 @@
+(princ "The simulation has given us Lisp.")
