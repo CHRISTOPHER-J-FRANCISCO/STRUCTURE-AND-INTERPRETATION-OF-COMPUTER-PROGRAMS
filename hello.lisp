@@ -1,1 +1,1 @@
-(princ "The simulation has given us Lisp.")
+(princ "The simulation has led us to Lisp.")
